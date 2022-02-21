@@ -1,0 +1,4 @@
+# Data paths
+path:
+    model: '../artifacts/model/'
+    output: '../output/'
