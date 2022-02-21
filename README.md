@@ -39,4 +39,4 @@ Cat,3,Tabby,Male,Black,White,Small,Short,No,No,Healthy,100,1,Yes, No
 ## Further work / next steps
 * Consider modelling cat and dog adoption separately
 * The class examples are unbalanced (3:1 for adopted: not adopted). May consider stratified sampling to see if the model can be improved.
-* Consider using Weight of Evidence and Information Value (both used in Credit Scoring, https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html)
+* Consider using Weight of Evidence and Information Value (both used in Credit Scoring, https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html) as an alternative to one-hot encoding
